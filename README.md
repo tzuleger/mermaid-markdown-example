@@ -14,19 +14,19 @@ Example:
 ````
 ```mermaid
 flowchart TD
-    A[Christmas] -->|Get money| B(Go shopping)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
+    A[Christmas] -->|Get White Elephant Gift| B(Go shopping)
+    B --> C{Plan for individual gift?}
+    C -->|Plan for Jim| D[Free get-out-of-HR card]
+    C -->|Plan for Katie| E[fa:fa-car hotwheel]
+    C -->|Plan for Chris| F[fa:fa-guitar rad guitar]
 ```
 ````
 
 ```mermaid
 flowchart TD
-    A[Christmas] -->|Get money| B(Go shopping)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
+    A[Christmas] -->|Get White Elephant Gift| B(Go shopping)
+    B --> C{Plan for individual gift?}
+    C -->|Plan for Jim| D[Free get-out-of-HR card]
+    C -->|Plan for Katie| E[fa:fa-car hotwheel]
+    C -->|Plan for Chris| F[fa:fa-guitar guitar]
 ```
