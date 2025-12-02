@@ -14,8 +14,6 @@ Example:
 ````
 ```mermaid
 ---
-format: revealjs
----
 title: Mermaid Example
 ---
 flowchart TD
