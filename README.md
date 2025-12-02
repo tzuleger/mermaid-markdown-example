@@ -24,8 +24,8 @@ flowchart TD
     C --> D{Yes}
     C --> H{No}
     D -->|Plan for Jim| E[Free get-out-of-HR card]
-    D -->|Plan for Katie| F[fa:fa-car hotwheel]
-    D -->|Plan for Chris| G[fa:fa-guitar guitar]
+    D -->|Plan for Katie| F[hotwheel]
+    D -->|Plan for Chris| G[guitar]
     D -->|Plan for Anyone Else| I
     H -->|Plan for Anyone| I[A half-eaten Banana]
 ```
@@ -41,8 +41,8 @@ flowchart TD
     C --> D{Yes}
     C --> H{No}
     D -->|Plan for Jim| E[Free get-out-of-HR card]
-    D -->|Plan for Katie| F[fa:fa-car hotwheel]
-    D -->|Plan for Chris| G[fa:fa-guitar guitar]
+    D -->|Plan for Katie| F[hotwheel]
+    D -->|Plan for Chris| G[guitar]
     D -->|Plan for Anyone Else| I
     H -->|Plan for Anyone| I[A half-eaten Banana]
 ```
