@@ -3,24 +3,24 @@ This repository has examples of how GitHub implicitly handles Mermaid markdown c
 
 Write the following code in your README (or any `.md` document):
 
-```
-\`\`\`mermaid
+````
+```mermaid
 # Mermaid code goes here
-\`\`\`
 ```
+````
 
 Example:
 
-```
-\`\`\`mermaid
+````
+```mermaid
 flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
     C -->|One| D[Laptop]
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
-\`\`\`
 ```
+````
 
 ```mermaid
 flowchart TD
